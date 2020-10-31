@@ -21,7 +21,7 @@ lastName
 
 # query 2
 
-{  
+{
  studentById(id:"S1001") {
 id
 firstName
