@@ -2,6 +2,14 @@ type Query {
   greeting: String
   students: [Student]
   studentById(id: ID!): Student
+  colleges: [College]
+}
+
+type College {
+  id: ID!
+  name: String
+  location: String
+  rating: Float
 }
 
 type Student {
@@ -10,4 +18,6 @@ type Student {
   lastName: String
   password: String
   collegeId: String
+  fullName: String
+  college: College
 }
