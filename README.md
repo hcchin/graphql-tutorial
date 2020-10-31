@@ -55,7 +55,7 @@ rating
 
 ### query 5
 
-![Screenshot](/pic/01.jpg){:height="700px" width="400px"}
+![Screenshot](/pic/01.jpg)
 
 ### query 6
 
