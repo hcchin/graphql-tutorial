@@ -55,25 +55,25 @@ rating
 
 ### query 5
 
-![Screenshot](01.jpg)
+![Screenshot](/pic/01.jpg)
 
 ### query 6
 
-![Screenshot](02.jpg)
+![Screenshot](/pic/02.jpg)
 
 ### query 7
 
-![Screenshot](03.jpg)
-![Screenshot](04.jpg)
+![Screenshot](/pic/03.jpg)
+![Screenshot](/pic/04.jpg)
 
 ### query 8
 
-![Screenshot](05.jpg)
+![Screenshot](/pic/05.jpg)
 
 ### query 9
 
-![Screenshot](06.jpg)
-![Screenshot](07.jpg)
-![Screenshot](08.jpg)
-![Screenshot](09.jpg)
-![Screenshot](10.jpg)
+![Screenshot](/pic/06.jpg)
+![Screenshot](/pic/07.jpg)
+![Screenshot](/pic/08.jpg)
+![Screenshot](/pic/09.jpg)
+![Screenshot](/pic/10.jpg)
