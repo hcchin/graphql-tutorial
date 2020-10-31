@@ -1,9 +1,26 @@
+enum ColorType {
+  RED
+  BLUE
+  GREEN
+}
+
 type Query {
   greeting: String
   students: [Student]
   studentById(id: ID!): Student
   colleges: [College]
   sayHello(name: String!): String
+  setFavouriteColor(color: ColorType): String
+}
+
+type Mutation {
+  addStudent_returns_object(
+    collegeId: ID
+    firstName: String
+    lastName: String
+  ): Student
+
+  createStudent(collegeId: ID, firstName: String, lastName: String): String
 }
 
 type College {
