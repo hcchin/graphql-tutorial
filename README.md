@@ -64,7 +64,7 @@ rating
 ### query 7
 
 ![Screenshot](03.jpg)
-![Screenshot](04.jpg)){:height="200px" width="400px"}
+![Screenshot](04.jpg){:height="200px" width="400px"}
 
 ### query 8
 
