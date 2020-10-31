@@ -54,7 +54,7 @@ rating
 }
 
 ### query 5
-<img src="static/pic.01.jpg" width="200">
+![Screenshot](/pic/01.jpg)
 
 
 ### query 6
