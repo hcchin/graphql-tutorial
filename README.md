@@ -68,4 +68,12 @@ rating
 
 ### query 8
 
+![Screenshot](05.jpg)
+
+### query 9
+
+![Screenshot](06.jpg)
+![Screenshot](07.jpg)
 ![Screenshot](08.jpg)
+![Screenshot](09.jpg)
+![Screenshot](10.jpg)
