@@ -8,6 +8,8 @@ const Query = {
     return db.students.get(args.id);
   },
   colleges: () => db.colleges.list(),
+  sayHello: (root, args, context, info) =>
+    `Hi ${args.name} GraphQL server says Hello to you!!`,
 };
 
 const Student = {
