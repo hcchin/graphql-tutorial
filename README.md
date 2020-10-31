@@ -55,17 +55,17 @@ rating
 
 ### query 5
 
-![Screenshot](01.jpg | width=400)
+![Screenshot](01.jpg)
 
 ### query 6
 
-![Screenshot](02.jpg | width=400)
+![Screenshot](02.jpg)
 
 ### query 7
 
-![Screenshot](03.jpg | width=400)
-![Screenshot](04.jpg | width=400)
+![Screenshot](03.jpg)
+![Screenshot](04.jpg)){:height="200px" width="400px"}
 
 ### query 8
 
-![Screenshot](08.jpg | width=400)
+![Screenshot](08.jpg)
