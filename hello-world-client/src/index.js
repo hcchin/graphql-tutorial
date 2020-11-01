@@ -72,7 +72,7 @@ class App extends Component {
                     <td>{s.firstName}</td>
                     <td>{s.lastName}</td>
                     <td>
-                      {/*s.college.name*/}
+                      {s.college.name}
                       {i}
                     </td>
                   </tr>
